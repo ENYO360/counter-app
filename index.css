@@ -42,7 +42,7 @@ div {
     border: solid 1px red;
     border-radius: 1rem;
     box-shadow: 1px 1px 10px 1px;
-    max-width: 20rem;
+    max-width: 30%;
     margin-inline: auto;
     margin-block: 12rem;
     padding: 1.5rem;
